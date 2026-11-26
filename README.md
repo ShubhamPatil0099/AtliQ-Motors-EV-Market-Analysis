@@ -151,7 +151,14 @@ Key analysis:
 
 ### Dashboard Screenshots
 
-*The dashboard screenshots will be added here.*
+01.Market_overview
+<img width="1156" height="640" alt="Screenshot 2026-11-26 225631" src="https://github.com/user-attachments/assets/e4a0eafa-3a31-4e3f-b12b-5c5b4c303bc3" />
+02.State_Analysis
+<img width="1179" height="658" alt="Screenshot 2026-11-26 225647" src="https://github.com/user-attachments/assets/17964619-f978-44f9-9021-7076df0a4182" />
+03.Competition_analysis
+<img width="1157" height="649" alt="Screenshot 2026-11-26 225659" src="https://github.com/user-attachments/assets/fa49b8fb-e054-493f-bcdb-054e230675be" />
+04.timing_&_overview
+<img width="1165" height="653" alt="Screenshot 2026-11-26 225714" src="https://github.com/user-attachments/assets/d55191eb-36c3-4e09-b070-0ec5ce97afed" />
 
 ---
 
